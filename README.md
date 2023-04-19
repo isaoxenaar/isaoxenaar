@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**isaoxenaar/isaoxenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Isa, I am a developer based in Oslo!
+I look like a narwhal in real life too ;). 
 
-Here are some ideas to get you started:
+Currently 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+******* studying ONLINE and at the UNIVERSITY to catch up on the theoratical side of programming. ********
+
+************ love creating cute front-end details that are a bit dorky ***********
+
+* * * you can find me on hackerrank (just learned how to float) and you can see me swimming here : https://meek-granita-c32a52.netlify.app/ * * *
+
+Fun Fact
+"I love whales but the only one I ever saw was a beluga, in a zoo!"
+
+![alt text](https://static.vecteezy.com/system/resources/previews/017/444/602/original/cute-cartoon-narwhal-illustration-isolated-on-white-background-vector.jpg)
