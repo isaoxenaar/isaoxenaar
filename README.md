@@ -2,7 +2,7 @@ Hi there 👋,
 
 My name is Isa, I am a developer based in Oslo! 
 
-*** I am studying online and at university to catch up on the theoratical side of programming ***
+*** I am currently catching up on the theoratical side of programming ***
 
 ************ love creating cute front-end details ***********
 
