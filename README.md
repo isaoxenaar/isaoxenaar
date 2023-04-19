@@ -3,9 +3,9 @@ Hi there 👋,
 My name is Isa, I am a developer based in Oslo!
 I look like a narwhal in real life too ;). 
 
-                 Currently:
+                 Currently
 
-****** studying ONLINE and at the UNIVERSITY to catch up on the theoratical side of programming. ********
+****** studying online and at university to catch up on the theoratical side of programming. ********
 
                  ************ love creating cute front-end details ***********
 
