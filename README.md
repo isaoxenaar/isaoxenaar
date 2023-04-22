@@ -1,6 +1,6 @@
 Hi there 👋,
 
-I am a Full Stack developer based in Oslo! 
+I am a Full Stack developer based in Oslo.
 
 *** Currently catching up on the theoratical side of programming ***
 
