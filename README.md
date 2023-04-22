@@ -2,7 +2,7 @@ Hi there 👋,
 
 I am a Full Stack developer based in Oslo.
 
-*** Currently catching up on the theoratical side of programming ***
+*** Currently catching up on theory ***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaoxenaar&show_icons=true&bg_color=f2ece2&title_color=526971&icon_color=735d46&text_color=8b816f&ring_color=e3d4dc)
 ![alt text](https://i.insider.com/5de93f1dfd9db264555807e9?width=600&format=jpeg&auto=webp)
