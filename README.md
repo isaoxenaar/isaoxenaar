@@ -4,7 +4,7 @@ I am a Full Stack developer based in Oslo.
 
 *** Currently catching up on the theoratical side of programming ***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaoxenaar&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaoxenaar&show_icons=true&bg_color=ADD8E6&title_color=5D8896&icon_color=6698FF&text_color=82CAFF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaoxenaar&langs_count=7&layout=compact&theme=gruvbox&hide_progress=true)](https://github.com/isaoxenaar/github-readme-stats)
 ![alt text](https://i.insider.com/5de93f1dfd9db264555807e9?width=600&format=jpeg&auto=webp)
 
